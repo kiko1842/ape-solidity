@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+"python-lsp-server>=1.12.0",  # Python language server used by editor integrations#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from setuptools import find_packages, setup
 
